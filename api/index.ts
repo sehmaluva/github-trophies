@@ -85,14 +85,14 @@ async function app(req: Request): Promise<Response> {
           <input type="text" name="theme" id="theme" placeholder="Ex. onedark" value="light">
           <text>
             See all the available themes
-            <a href="https://github.com/sehmaluva/github-profile-trophy?tab=readme-ov-file#apply-theme" target="_blank">here</a>
+            <a href="https://github.com/sehmaluva/github-trophies?tab=readme-ov-file#apply-theme" target="_blank">here</a>
           </text>
           <br>
           <button type="submit">Get Trophy&apos;s</button>
         </form>
       </div>
       <script>
-        const base = "https://github-profile-trophy.vercel.app/";
+        const base = "https://githuh-trophies-eta.vercel.app/";
         const button = document.querySelector("button");
         const input = document.querySelector("input");
         const temporarySpan = document.querySelector("#temporary-span");

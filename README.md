@@ -1,7 +1,7 @@
 <div align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
   <h2 align="center">GitHub Trophies</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
+  <p align="center">Showcase your github contribution trophies on your README</p>
 </div>
 <div align="center">
 
@@ -11,8 +11,10 @@
 [![license](https://img.shields.io/github/license/sehmaluva/github-trophies)](https://github.com/sehmaluva/github-trophies/blob/master/LICENSE)
 [![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fsehmaluva%2Fgithub-trophies)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fsehmaluva%2Fgithub-trophies)
 
-# Quick Start
 
+> forked from [Github Profile Trophies By ryo-na](https://github.com/ryo-ma/github-profile-trophy)
+
+# Quick Start
 Add the following code to your readme. When pasting the code into your profile's
 readme, change the `?username=` value to your GitHub's username.
 

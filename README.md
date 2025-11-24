@@ -31,7 +31,7 @@ readme, change the `?username=` value to your GitHub's username.
 Add optional parameter of the theme.
 
 ```
-[![trophy](https://trophies.sehmaluva.me/?username=sehmaluva&theme=onedark)](https://github.com/sehmaluva/github-trophies)
+[![trophy](https://trophies.sehmaluva.me/?username=sehmaluva&theme=onedark)]
 ```
 
 <p align="center">

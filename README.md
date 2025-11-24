@@ -19,7 +19,7 @@ Add the following code to your readme. When pasting the code into your profile's
 readme, change the `?username=` value to your GitHub's username.
 
 ```
-[![trophy](https://trophies.sehmaluva.me/?username=sehmaluva)](https://github.com/sehmaluva/github-trophies)
+[![trophy](https://trophies.sehmaluva.me/?username=USERNAME)]
 ```
 
 <p align="center">

@@ -12,7 +12,7 @@
 [![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fsehmaluva%2Fgithub-trophies)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fsehmaluva%2Fgithub-trophies)
 
 
-> forked from [Github Profile Trophies By ryo-na](https://github.com/ryo-ma/github-profile-trophy)
+> forked from [Github Profile Trophies By ryo-ma](https://github.com/ryo-ma/github-profile-trophy)
 
 # Quick Start
 Add the following code to your readme. When pasting the code into your profile's

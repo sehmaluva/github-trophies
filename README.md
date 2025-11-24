@@ -17,11 +17,11 @@ Add the following code to your readme. When pasting the code into your profile's
 readme, change the `?username=` value to your GitHub's username.
 
 ```
-[![trophy](https://github-trophies.vercel.app/?username=sehmaluva)](https://github.com/sehmaluva/github-trophies)
+[![trophy](https://trophies.sehmaluva.me/?username=sehmaluva)](https://github.com/sehmaluva/github-trophies)
 ```
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sehmaluva&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://trophies.sehmaluva.me/?username=sehmaluva&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ## Use theme
@@ -29,7 +29,7 @@ readme, change the `?username=` value to your GitHub's username.
 Add optional parameter of the theme.
 
 ```
-[![trophy](https://github-trophies.vercel.app/?username=sehmaluva&theme=onedark)](https://github.com/sehmaluva/github-trophies)
+[![trophy](https://trophies.sehmaluva.me/?username=sehmaluva&theme=onedark)](https://github.com/sehmaluva/github-trophies)
 ```
 
 <p align="center">
@@ -92,7 +92,7 @@ conditions, I will consider adding a trophy. I am waiting for contributions.
 You can filter the display by specifying the titles of trophy.
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&title=Followers
+https://trophies.sehmaluva.me/?username=sehmaluva&title=Followers
 ```
 
 <p align="center">
@@ -102,7 +102,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&title=Followers
 If you want to specify multiple titles.
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&title=Stars,Followers
+https://trophies.sehmaluva.me/?username=sehmaluva&title=Stars,Followers
 ```
 
 <p align="center">
@@ -112,7 +112,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&title=Stars,Followers
 You can also exclude the trophies you don't want to display.
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&title=-Stars,-Followers
+https://trophies.sehmaluva.me/?username=sehmaluva&title=-Stars,-Followers
 ```
 
 ## Filter by ranks
@@ -121,7 +121,7 @@ You can filter the display by specifying the ranks.\
 `Available values: SECRET SSS SS S AAA AA A B C`
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&rank=S
+https://trophies.sehmaluva.me/?username=sehmaluva&rank=S
 ```
 
 <p align="center">
@@ -131,7 +131,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&rank=S
 If you want to specify multiple ranks.
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&rank=S,AAA
+https://trophies.sehmaluva.me/?username=sehmaluva&rank=S,AAA
 ```
 
 <p align="center">
@@ -141,7 +141,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&rank=S,AAA
 You can also exclude ranks.
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&rank=-C,-B
+https://trophies.sehmaluva.me/?username=sehmaluva&rank=-C,-B
 ```
 
 **NOTE: Since `UNKNOWN` is denoted by `?`, in order to include or exclude it you
@@ -158,19 +158,19 @@ Trophy will be hidden if it exceeds the range of both row and column.
 Restrict only row
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&row=2
+https://trophies.sehmaluva.me/?username=sehmaluva&row=2
 ```
 
 Restrict only column
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&column=2
+https://trophies.sehmaluva.me/?username=sehmaluva&column=2
 ```
 
 Restrict row & column
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&row=2&column=3
+https://trophies.sehmaluva.me/?username=sehmaluva&row=2&column=3
 ```
 
 <p align="center">
@@ -180,7 +180,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&row=2&column=3
 Adaptive column
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&column=-1
+https://trophies.sehmaluva.me/?username=sehmaluva&column=-1
 ```
 
 You can set `column` to `-1` to adapt the width to the number of trophies, the
@@ -220,7 +220,7 @@ Available themes.
 ### flat
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=flat
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=flat
 ```
 
 <p align="center">
@@ -230,7 +230,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=flat
 ### onedark
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=onedark
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=onedark
 ```
 
 <p align="center">
@@ -240,7 +240,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=onedark
 ### gruvbox
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=gruvbox
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=gruvbox
 ```
 
 <p align="center">
@@ -250,7 +250,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=gruvbox
 ### dracula
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=dracula
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=dracula
 ```
 
 <p align="center">
@@ -260,7 +260,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=dracula
 ### monokai
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=monokai
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=monokai
 ```
 
 <p align="center">
@@ -270,7 +270,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=monokai
 ### chalk
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=chalk
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=chalk
 ```
 
 <p align="center">
@@ -280,7 +280,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=chalk
 ### nord
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=nord
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=nord
 ```
 
 <p align="center">
@@ -290,7 +290,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=nord
 ### alduin
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=alduin
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=alduin
 ```
 
 <p align="center">
@@ -300,7 +300,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=alduin
 ### darkhub
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=darkhub
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=darkhub
 ```
 
 <p align="center">
@@ -310,7 +310,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=darkhub
 ### juicyfresh
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=juicyfresh
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=juicyfresh
 ```
 
 <p align="center">
@@ -320,7 +320,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=juicyfresh
 ### buddhism
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=buddhism
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=buddhism
 ```
 
 <p align="center">
@@ -330,7 +330,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=buddhism
 ### oldie
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=oldie
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=oldie
 ```
 
 <p align="center">
@@ -340,7 +340,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=oldie
 ### radical
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=radical
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=radical
 ```
 
 <p align="center">
@@ -350,7 +350,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=radical
 ### onestar
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=onestar
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=onestar
 ```
 
 <p align="center">
@@ -360,7 +360,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=onestar
 ### discord
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=discord
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=discord
 ```
 
 <p align="center">
@@ -370,7 +370,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=discord
 ### algolia
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=algolia
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=algolia
 ```
 
 <p align="center">
@@ -380,7 +380,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=algolia
 ### gitdimmed
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=gitdimmed
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=gitdimmed
 ```
 
 <p align="center">
@@ -390,7 +390,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=gitdimmed
 ### tokyonight
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=tokyonight
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=tokyonight
 ```
 
 <p align="center">
@@ -400,7 +400,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=tokyonight
 ### matrix
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=matrix
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=matrix
 ```
 
 <p align="center">
@@ -410,7 +410,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=matrix
 ### apprentice
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=apprentice
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=apprentice
 ```
 
 <p align="center">
@@ -420,7 +420,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=apprentice
 ### dark_dimmed
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=dark_dimmed
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=dark_dimmed
 ```
 
 <p align="center">
@@ -430,7 +430,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=dark_dimmed
 ### dark_lover
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=dark_lover
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=dark_lover
 ```
 
 <p align="center">
@@ -440,7 +440,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=dark_lover
 ### kimbie_dark
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=kimbie_dark
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=kimbie_dark
 ```
 
 <p align="center">
@@ -450,7 +450,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&theme=kimbie_dark
 ### aura
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&theme=aura
+https://trophies.sehmaluva.me/?username=sehmaluva&theme=aura
 ```
 
 <p align="center">
@@ -464,7 +464,7 @@ You can put a margin in the width between trophies.\
 `Default: margin-w=0`
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&margin-w=15
+https://trophies.sehmaluva.me/?username=sehmaluva&margin-w=15
 ```
 
 <p align="center">
@@ -478,7 +478,7 @@ You can put a margin in the height between trophies.\
 `Default: margin-h=0`
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&margin-h=15
+https://trophies.sehmaluva.me/?username=sehmaluva&margin-h=15
 ```
 
 <p align="center">
@@ -488,7 +488,7 @@ https://github-trophies.vercel.app/?username=sehmaluva&margin-h=15
 ## Example layout
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&column=3&margin-w=15&margin-h=15
+https://trophies.sehmaluva.me/?username=sehmaluva&column=3&margin-w=15&margin-h=15
 ```
 
 <p align="center">
@@ -502,7 +502,7 @@ You can turn the background transparent.\
 `Default: no-bg=false`
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&no-bg=true
+https://trophies.sehmaluva.me/?username=sehmaluva&no-bg=true
 ```
 
 <p align="center">
@@ -516,7 +516,7 @@ You can hide the frames around the trophies.\
 `Default: no-frame=false`
 
 ```
-https://github-trophies.vercel.app/?username=sehmaluva&no-frame=true
+https://trophies.sehmaluva.me/?username=sehmaluva&no-frame=true
 ```
 
 <p align="center">
